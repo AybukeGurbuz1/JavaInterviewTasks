@@ -1,4 +1,4 @@
-package Java_01_MainMethod;
+package java_01_mainMethod;
 
 public class Main_01_MainMethod {
     public static void main(String[] args) {
